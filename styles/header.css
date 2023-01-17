@@ -21,6 +21,10 @@
     align-items: center;
 }
 
+.container__botao {
+    display: none;
+}
+
 .container__imagem {
     padding: 1em;
 }
@@ -43,6 +47,7 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
